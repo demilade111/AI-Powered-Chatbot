@@ -1,4 +1,4 @@
-# AI Customer Support Chatbot
+<img width="1121" alt="Screenshot 2025-03-07 at 1 00 32 AM" src="https://github.com/user-attachments/assets/8c8af046-15c8-4c50-a649-be3bba5608a9" /># AI Customer Support Chatbot
 
 A modern AI-powered customer support chatbot built with React, Node.js, and OpenAI's GPT API. This project demonstrates the integration of AI capabilities into a web application for automated customer support.
 
@@ -8,7 +8,8 @@ A modern AI-powered customer support chatbot built with React, Node.js, and Open
 - Session-based chat history
 - Modern, minimal UI design using Chakra UI
 - TypeScript support for better development experience
-- Scalable architecture with separate frontend and backend
+- Scalable architecture with separate fronten
+d and backend
 
 ## Tech Stack
 
